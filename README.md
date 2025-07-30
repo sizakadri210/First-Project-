@@ -1,4 +1,5 @@
-💼 Labour Attendance & Salary Dashboard – A Gift for My Father
+💼 **Labour Attendance & Salary Dashboard – A Gift for My Father**
+
 For years, my father has manually tracked the attendance, loans, and salaries of labourers on construction sites — using only pen, paper, and his dedication.
 This project is my way of giving back — combining my passion for data with a desire to simplify his life.
 
